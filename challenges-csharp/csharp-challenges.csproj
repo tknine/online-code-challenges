@@ -51,9 +51,11 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CodeWars\Emirps.cs" />
     <Compile Include="CodeWars\MorseCode.cs" />
     <Compile Include="CodeWars\ReverseOrRotate.cs" />
     <Compile Include="LeetCode\AddTwoNumbers.cs" />
+    <Compile Include="LeetCode\StringToIntegerAtoi.cs" />
     <Compile Include="LeetCode\ZigZagConversion.cs" />
     <Compile Include="LeetCode\TwoSum.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
